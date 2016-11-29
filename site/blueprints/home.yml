@@ -1,0 +1,21 @@
+title: Home
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Description
+    type: markdown
+    header1: h2
+    header2: h3
+    tools:
+    - header2
+    - bold
+    - italic
+    - unorderedList
+    - orderedList
+    - link
+    - image
+    - line

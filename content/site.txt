@@ -1,0 +1,28 @@
+Title: Pattern Library Starter Kit
+
+----
+
+Author: Jan Kiekeben @ Immonet.de
+
+----
+
+Description: This is a Kirby CMS based Pattern Library Starterkit Project
+
+----
+
+Copyright: © (date: Year) (twitter: @jjchieferson)
+
+----
+
+Header: 
+
+<link rel="stylesheet" href="...">
+<script src="..."></script>
+
+----
+
+Body: <script src="..."></script>
+
+----
+
+Features: 0

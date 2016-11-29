@@ -1,0 +1,32 @@
+title: Site
+pages:
+  template:
+    - pattern
+    - overview
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 3/5
+  author:
+    label: Author
+    type:  text
+    width: 2/5
+  description:
+    label: Description
+    type:  textarea
+    width: 3/5
+  copyright:
+    label: Copyright
+    type:  textarea
+    width: 2/5
+  header:
+    label: Your CSS & JS frontend resources for Pattern Demo in HEAD section
+    type:  textarea
+  body:
+    label: Additional JS resources for Pattern Demo at the end of BODY section
+    type:  textarea
+  features:
+    label: Comments
+    type: checkbox
+    text: Activate Comments on Pattern

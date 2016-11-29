@@ -1,0 +1,29 @@
+title: Overview
+pages:
+  template:
+    - pattern
+    - overview
+deletable: true
+hide: false
+files: false
+icon: sitemap
+fields:
+  title:
+    label: Page Title
+    type:  text
+    required: true
+    width: 3/5
+  description:
+    label: Description Text
+    type: markdown
+    header1: h2
+    header2: h3
+    tools:
+    - header2
+    - bold
+    - italic
+    - unorderedList
+    - orderedList
+    - link
+    - image
+    - line

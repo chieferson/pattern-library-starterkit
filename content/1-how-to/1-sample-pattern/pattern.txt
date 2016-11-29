@@ -1,0 +1,43 @@
+Title: Sample Pattern
+
+----
+
+Author: Jan Kiekeben
+
+----
+
+Description: 
+
+This is a Sample Pattern to illustrate the **Pattern Library Starter Kit** functionality. In this section the pattern details and usage is described. I recommend to get in detail why and how this pattern is used and which problem does it solve (e.g. a classic best practice). Get in detail about do's and don'ts how you use the pattern and which variations may exist.
+
+You can use ``<p>Code Formatting</p>`` to get in detail or link to (link:how-to text: other Pages) and Patterns. For details on your Pattern Code use the sample code section.
+
+----
+
+Htmldemo: 
+
+<!-- Your Pattern Markup goes here -->
+<style>
+.button {
+    font-size: 1em;
+    padding: .3em .8em;
+    margin: 1em 0;
+    border: 1px solid;
+    border-radius: 4px;
+    background: #ffffff;
+}
+.button:hover {
+    background: #efefef;
+}
+</style>
+<button class="button">Please Click Me</button>
+
+----
+
+Samplecode: 
+
+```
+<button class="button">Please Click Me</button>
+```
+
+*In this section you can place a developer sample code and detailed description of your code, like references to required libraries or do's and don'ts of your coding conventions related to this pattern.*

@@ -1,0 +1,42 @@
+/*
+
+ KIRBY SEARCH PLUGIN STYLING
+
+ @link: https://getkirby.com/docs/cookbook/search
+
+ */
+
+ .search input[type=search] {
+    font-size: 18px;
+    font-family: inherit;
+    padding: 10px 10px 10px 20px;
+    border: 2px solid #ccc;
+    border-radius: 5em 0 0 5em;
+    outline: none;
+}
+.search input[type=search]:focus {
+    border-color: #555;
+}
+.search input[type=submit] {
+    font-weight: 600;
+    font-size: 18px;
+    font-family: inherit;
+    padding: 10px 20px 10px 10px;
+    background-color: transparent;
+    border-radius: 0 5em 5em 0;
+    border: 2px solid #000;
+    cursor: pointer;
+    margin-top: 1.25em;
+}
+.search input[type=submit]:focus, .search input[type=submit]:hover, .search input[type=submit]:active {
+    color: #fff;
+    background-color: #000;
+}
+.search ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+.search ul>li{
+  padding: 12px 0;
+}

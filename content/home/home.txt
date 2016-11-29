@@ -1,0 +1,17 @@
+Title: Home
+
+----
+
+Text: 
+
+Yay! If you are seeing this, the installation of your Pattern Library worked. :)
+
+## Get started
+
+- Read the quick (link: how-to text: How To)
+- Go to the (link: panel text: admin panel) to customize your pattern library and create your first pattern
+- Check out the (link: http://getkirby.com/docs text: Kirby CMS docs) and start learning more on Kirby CMS
+- Follow (twitter: @jjchieferson) on Twitter
+- Contact me on (link: https://github.com/chieferson/pattern-library-starterkit text: Github) if you have questions
+
+**Have fun with your Pattern Library and Kirby!**

@@ -1,0 +1,53 @@
+title: Pattern
+pages: false
+files: true
+hide: false
+icon: cube
+fields:
+  title:
+    label: Pattern Name
+    type:  text
+    required: true
+    width: 3/5
+  author:
+    label: Pattern Author
+    type:  tags
+    required: false
+    help: Who is responsible for this pattern?
+    width: 2/5
+  description:
+    label: Pattern Description
+    type: markdown
+    help: Describe the pattern details and eventuelly usage restrictions & best practice advices
+    header1: h2
+    header2: h3
+    tools:
+    - header2
+    - bold
+    - italic
+    - unorderedList
+    - orderedList
+    - link
+    - image
+    - line
+  htmldemo:
+    label: Pattern Demo
+    type:  textarea
+    help: Your pattern HTML markup
+    placeholder:
+    buttons: false
+  samplecode:
+    label: Developer sample code
+    type: markdown
+    help: Kirby-Code-Markdown  ``` &lt;p&gt;Hello World&lt;/p&gt; ```
+    header1: h2
+    header2: h3
+    tools:
+    - header2
+    - bold
+    - italic
+    - unorderedList
+    - orderedList
+    - link
+    - image
+    - line

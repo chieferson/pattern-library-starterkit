@@ -1,0 +1,100 @@
+/*
+
+ KIRBY COMMENTS PLUGIN
+
+ @author    Addpixel
+ @copyright Addpixel http://addpixel.net
+ @link      https://github.com/Addpixel/KirbyComments
+
+ */
+
+abbr[title] {
+    border-bottom: 0;
+    color: #f00;
+}
+.comments label {
+    display: block;
+    margin-top: 0.5em;
+}
+.comments input[type=text], .comments input[type=email], .comments input[type=url], .comments textarea {
+    font-size: 0.85em;
+    font-family: inherit;
+    padding: 0.3em;
+    border: 2px solid #ccc;
+    outline: none;
+}
+.comments input[type=text]:focus, .comments input[type=email]:focus, .comments input[type=url]:focus, .comments textarea:focus {
+    border-color: #555;
+}
+.comments input[type=text], .comments input[type=email], .comments input[type=url] {
+    max-width: 350px;
+    width: 100%;
+}
+.comments textarea {
+    width: 100%;
+    min-height: 8em;
+    resize: vertical;
+}
+.comments input[type=submit] {
+    font-weight: 600;
+    font-size: 0.9em;
+    font-family: inherit;
+    padding: 0.25em 1.1em;
+    background-color: transparent;
+    border-radius: 5em;
+    border: 2px solid #000;
+    cursor: pointer;
+    margin-top: 1.25em;
+}
+.comments input[type=submit]:focus, .comments input[type=submit]:hover, .comments input[type=submit]:active {
+    color: #fff;
+    background-color: #000;
+}
+.comments .error {
+    padding: 0.6em 0.9em;
+    background-color: rgba(255, 0, 0, 0.3);
+}
+.comments .comment-info :last-child {
+    margin-bottom: 0;
+}
+.comments .thank-you {
+    padding: 0.6em 0.9em;
+    background-color: rgba(96, 207, 23, 0.3);
+}
+.comment {
+    margin-bottom: 1.5em;
+}
+.comment .comment-title {
+    display: flex;
+    align-items: center;
+    margin: 60px 0 0 0;
+    color: #000;
+    font-weight: 600;
+    font-size: 1em;
+}
+.comment h3 {
+    flex-grow: 1;
+    margin: 0;
+}
+.comment .comment-info {
+    color: #929292;
+    font-size: .7em;
+    text-align: right;
+}
+.comment .comment-info .comment-preview-message {
+    color: #000;
+    padding: 0.6em 0.9em;
+    background-color: rgba(96, 207, 23, 0.3);
+}
+.new-comment-wrapper {
+    border: 1px solid #f00;
+    border-radius: 4px;
+    padding: 20px;
+}
+.new-comment-title {
+    color: #000;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.375em;
+    margin: 0;
+}

@@ -1,0 +1,11 @@
+title: Search
+pages: false
+files: false
+hide: true
+fields:
+  title:
+    label: Title
+    type:  text
+  description:
+    label: Text
+    type:  textarea

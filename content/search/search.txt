@@ -1,0 +1,9 @@
+Title: Pattern Search
+
+----
+
+Description: Search for pattern names and description text.
+
+----
+
+Overview: This page offers the pattern library search

@@ -1,0 +1,92 @@
+/*
+
+ HLJS AS PART OF KIRBY KDOC THEME
+
+ @author    Nate Steiner
+ @copyright Nate Steiner http://natesteiner.com
+ @link      https://github.com/nsteiner/kdoc
+
+ */
+
+
+ code {
+  background-color: rgba(255, 0, 0, 0.05);
+  color: rgba(255, 0, 0, 1);
+}
+
+pre {
+    max-width: 100%;
+    font-size: .875em;
+    overflow-y: scroll;
+    background-color: #efefef;
+    border: 1px solid #d7d7d7;
+    padding: 10px
+}
+.hljs {
+    display: block;
+    overflow-x: auto;
+    background-color: #efefef;
+    padding: .5em;
+    color: #333
+}
+.hljs-comment, .hljs-quote {
+    color: #bc9458;
+    font-style: italic
+}
+.hljs-keyword, .hljs-selector-tag {
+    color: #c26230
+}
+.hljs-string, .hljs-number, .hljs-regexp, .hljs-variable, .hljs-template-variable {
+    color: #a4be04
+}
+.hljs-subst {
+    color: #519f50
+}
+.hljs-tag, .hljs-name {
+    color: #da0040
+}
+.hljs-type {
+    color: #da4939
+}
+.hljs-symbol, .hljs-bullet, .hljs-built_in, .hljs-builtin-name, .hljs-attr, .hljs-link {
+    color: #008fc4
+}
+.hljs-params {
+    color: #d0d0ff
+}
+.hljs-attribute {
+    color: #cda869
+}
+.hljs-meta {
+    color: #9b859d
+}
+.hljs-title, .hljs-section {
+    color: #ffc66d
+}
+.hljs-addition {
+    background-color: #144212;
+    color: #e6e1dc;
+    display: inline-block;
+    width: 100%
+}
+.hljs-deletion {
+    background-color: #600;
+    color: #e6e1dc;
+    display: inline-block;
+    width: 100%
+}
+.hljs-selector-class {
+    color: #9b703f
+}
+.hljs-selector-id {
+    color: #8b98ab
+}
+.hljs-emphasis {
+    font-style: italic
+}
+.hljs-strong {
+    font-weight: bold
+}
+.hljs-link {
+    text-decoration: underline
+}
