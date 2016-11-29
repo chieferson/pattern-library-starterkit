@@ -4,6 +4,8 @@ A Kirby CMS based UI Pattern Library Starter Kit.
 - Easy to use
 - A must have for every digital web project
 
+Thanks to www.immonet.de for making this project open source
+
 ![Pattern Library Starterkit](Pattern-Library-Starterkit-Screenshot.png)
 
 ## Features
