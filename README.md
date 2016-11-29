@@ -20,6 +20,7 @@ A Kirby CMS based UI Pattern Library Starter Kit.
 - A Kirby CMS installation (Version: 2.3.2+)
 - For Kirby CMS installation requirements & procedure please consult [Kirby installation manual](https://getkirby.com/docs/installation)
 - Get a Kirby license if you are happy. You can purchase your Kirby license at https://getkirby.com/buy
+- For Fontawesome Icon Plugin you need to be online
 
 ## Installation
 - Install and run the Kirby Starterkit
@@ -36,13 +37,27 @@ Please report issues and request new features on the [issues page](https://githu
 This Pattern Library Starterkit wouldn't be possible without the stunning work of a worldwide open source community. A million thanks go to...
 
 #### Icon Plugin for kirby
-- Author & Copyright: Thies Hagedorn
-- [Find it on Github](https://github.com/ThiesHagedorn/KirbyIconPlugin)
+- Author: Thies Hagedorn
+- Link: [Find it on Github](https://github.com/ThiesHagedorn/KirbyIconPlugin)
 
 #### Responsive viewer "ish"
-- Author & Copyright: Brad Frost
-- [Find it on Github](https://github.com/bradfrost/ish.)
+- Author: Brad Frost
+- Link: [Find it on Github](https://github.com/bradfrost/ish.)
 
-#### Kirby Comments Feature
-- Author & Copyright: Addpixel
-- [Find it on Github](https://github.com/Addpixel/KirbyComments)
+#### Kirby Comments Plugin
+- Author: Addpixel
+- Link: [Find it on Github](https://github.com/Addpixel/KirbyComments)
+
+#### Kirby Icons Plugin
+- Author: Thies Hagedorn
+- Link: [Find it on Github](https://github.com/ThiesHagedorn/KirbyIconPlugin)
+- With reference to [fontawesome.io](http://fontawesome.io/)
+
+#### Based on Kirby Documentation Theme KDOC
+- Author: Nate Steiner
+- Link: [Find it on Github](https://github.com/nsteiner/kdoc)
+- Theme is Modified on [pattern-library.css](/assets/css/pattern-library.css)
+
+#### iFrame Resizer
+- Author: David J. Bradshaw
+- Link: [Find it on Github](https://github.com/davidjbradshaw/iframe-resizer)
