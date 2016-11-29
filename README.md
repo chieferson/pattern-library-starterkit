@@ -7,15 +7,15 @@ A Kirby CMS based UI Pattern Library Starter Kit.
 ![Pattern Library Starterkit](Pattern-Library-Starterkit-Screenshot.png)
 
 ## Features
-[X] File Based Kirby CMS based
-[X] No Database required
-[X] Installation on premise
-[X] Iframe based Pattern Demo
-[X] Responsive Pattern Viewer "ish" included
-[X] Pattern data (Name, Author, Description & Developer Sample Code)
-[X] Overview pages for easy structuring
-[X] Simple pattern search included
-[X] Kirby [FontAwesome](http://fontawesome.io/) Plugin included
+- File Based Kirby CMS based
+- No Database required
+- Installation on premise
+- Iframe based Pattern Demo
+- Responsive Pattern Viewer "ish" included
+- Pattern data (Name, Author, Description & Developer Sample Code)
+- Overview pages for easy structuring
+- Simple pattern search included
+- Kirby [FontAwesome](http://fontawesome.io/) Plugin included
 
 ## Dependencies & System Requirements
 - A Kirby CMS installation (Version: 2.3.2)
