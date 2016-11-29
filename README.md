@@ -26,7 +26,7 @@ A Kirby CMS based UI Pattern Library Starter Kit.
 - Install and run the Kirby Starterkit
 - Clone the repository or download the Pattern Library Starterkit
 - Add/Replace the files & folders to their destination folders
-- Follow the manual on the "How To" page or [here](/MANUAL.md)
+- Follow the manual on the "How To" page or read the [Github Wiki](https://github.com/chieferson/pattern-library-starterkit/wiki)
 
 ## Issues and feedback
 Please report issues and request new features on the [issues page](https://github.com/chieferson/pattern-library-starterkit/issues)
